@@ -17,4 +17,5 @@ NOTE: For option 2, new files will be written to and this requires the `CSVHelpe
 ## TODO
 - Exception handling
 - Refactoring
+- Unit Tests
 - Additional functionality. e.g. File splitting - Split a 1 gb file into 10 x 100mb files
